@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7cb3ee9.css",
+    "main.js": "/static/js/main.b8c8c395.js",
+    "static/js/453.670e15c7.chunk.js": "/static/js/453.670e15c7.chunk.js",
+    "static/media/home-bg.png": "/static/media/home-bg.cb2d5ef758c8f49010d7.png",
+    "static/media/profile-bg.png": "/static/media/profile-bg.cb2d5ef758c8f49010d7.png",
+    "static/media/trade-bg.png": "/static/media/trade-bg.cb2d5ef758c8f49010d7.png",
+    "static/media/wallet-bg.png": "/static/media/wallet-bg.cb2d5ef758c8f49010d7.png",
+    "static/media/banner-3l.png": "/static/media/banner-3l.a80e5ca74f481fadae92.png",
+    "static/media/banner-4l.png": "/static/media/banner-4l.291e9450eb829d9af97f.png",
+    "static/media/banner-2l.png": "/static/media/banner-2l.6a244d0f63e6114c533a.png",
+    "static/media/banner-1l.png": "/static/media/banner-1l.4961ab30e8111823419b.png",
+    "static/media/banner-4.png": "/static/media/banner-4.534c616cd7a019185ea3.png",
+    "static/media/banner-2.png": "/static/media/banner-2.9242eec7e0425b839a12.png",
+    "static/media/banner-3.png": "/static/media/banner-3.a1a44ef99a6f80386e23.png",
+    "static/media/banner-1.png": "/static/media/banner-1.baee8523976101307093.png",
+    "index.html": "/index.html",
+    "main.a7cb3ee9.css.map": "/static/css/main.a7cb3ee9.css.map",
+    "main.b8c8c395.js.map": "/static/js/main.b8c8c395.js.map",
+    "453.670e15c7.chunk.js.map": "/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7cb3ee9.css",
+    "static/js/main.b8c8c395.js"
+  ]
+}
